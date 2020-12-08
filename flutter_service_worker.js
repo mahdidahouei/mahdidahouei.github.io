@@ -73,13 +73,16 @@ const RESOURCES = {
 "assets/NOTICES": "6ffd631528391c83e847fd1ce74939c7",
 "assets/packages/fluttertoast/assets/toastify.css": "8beb4c67569fb90146861e66d94163d7",
 "assets/packages/fluttertoast/assets/toastify.js": "8f5ac78dd0b9b5c9959ea1ade77f68ae",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "07a09129c70ac8b3220db76ecb72a86a",
-"/": "07a09129c70ac8b3220db76ecb72a86a",
-"main.dart.js": "bd8b6d238861171798666b63cc81411a",
+"favicon.png": "b3875ab21a1eadf94c3d2c61353c2bbf",
+"icons/Icon-192.png": "f35a3c9ae23c4b35575ec86833a532c1",
+"icons/Icon-512.png": "e6e9103062123e1fae2f1e875b158b56",
+"img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
+"img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
+"index.html": "ac89e0372a64070f361fe81dc82f7afe",
+"/": "ac89e0372a64070f361fe81dc82f7afe",
+"main.dart.js": "293db9369b19ed9e33755168fe69a3a2",
 "manifest.json": "9e3635e2e1c992f49f57d8950e947e64",
+"styles.css": "2bba72f9198d8149b2ad4535ee334aa7",
 "version.json": "b6a2799541e5b869a9c963c667d8b3b6"
 };
 

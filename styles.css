@@ -1,0 +1,18 @@
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 122px;
+    width: 68px;
+    transform: translate(-50%, -60%)
+}
+
+.bottom {
+    position: fixed;
+    left: 50%;
+    bottom: 64px;
+    height: 19px;
+    width: 109px;
+    transform: translate(-50%, -40%);
+    margin: 0 auto;
+}
