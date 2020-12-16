@@ -10,9 +10,7 @@
   "trees": "درخت",
   "rials": "ریال",
   "rial": "ریال",
-  "rana_tree": "درخت رعنا",
   "tree_number": "درخت شماره",
-  "tree_description": "این درخت کاج قراره که در روستای منطقه زاگرس کاشته شه",
   "donaks_helped": "تا این لحظه به کاشت این درخت کمک شده",
   "donaks_i_helped": "در کاشت این درخت سهم داشتم",
   "charge_sim": "خرید شارژ",
@@ -38,7 +36,7 @@
   "normal_charge": "شارژ عادی",
   "confirm_and_pay": "تایید و پرداخت",
   "unknown_error_occurred": "خطای نامشخصی رخ داده",
-  "successful_operation": "عملیات موفقیت آمیز بود",
+  "successful_operation": "خرید با موفقیت انجام شده است",
   "unsuccessful_operation": "عملیات موفقیت آمیز نبود",
   "good": "ایول!",
   "my_help": "دُنَک کمک کردی به کاشت",
@@ -192,5 +190,6 @@
   "volume": "حجم",
   "duration": "مدت",
   "transfer_guid": "اگر اپراتور خود را تغییر داده\u200Cاید فعال شود",
+  "unlimited": "نامحدود",
   "back": "برگشت"
 }
