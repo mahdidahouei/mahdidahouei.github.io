@@ -9031,12 +9031,10 @@ return P.n(X.avH(H.a([C.Lm],t.gY)),$async$Cj)
 case 2:X.a09(C.uO.uR(C.Q))
 s=3
 return P.n(V.aaj(),$async$Cj)
-case 3:q=$.ea()
-if(!q)X.b9t()
+case 3:if(!$.ea())X.b9t()
 s=4
 return P.n(F.aab(),$async$Cj)
-case 4:if(b)q="/main-page"
-else q=q?"/phone-number-page":"/introduction-page"
+case 4:q=b?"/main-page":"/introduction-page"
 if($.bK==null)N.aUf()
 p=$.bK
 p.Zw(new S.Eq(q,new N.aZ(null,t.Uf),null))
