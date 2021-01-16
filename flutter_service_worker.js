@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a95514f8a2ea3e1c7bb7445c66708be5",
+  "assets/AssetManifest.json": "8d8d12395a59d33431569f8c14c2b531",
 "assets/assets/fonts/IRANSansMobileFaNum-Bold.ttf": "4bac6b68236f494a59b54c44a1ed529f",
 "assets/assets/fonts/IRANSansMobileFaNum-Light.ttf": "3d18be052a4de0da6d0f2aaef74bbae5",
 "assets/assets/fonts/IRANSansMobileFaNum-Medium.ttf": "c37aafe885d7245042a5731e96a2acd2",
@@ -17,13 +17,14 @@ const RESOURCES = {
 "assets/assets/images/introduction3.png": "d2a8dc7a036fdc4665f80c7a518c443a",
 "assets/assets/images/profile_placeholder.webp": "73bcaf4331439025727850af5fd1d74f",
 "assets/assets/images/tree.jpg": "8a9de22a458852f9e40abc2904cd8edc",
-"assets/assets/lang/fa.json": "4c826c0e4610508862165f0d9ab15185",
-"assets/assets/lang/fa_faq.json": "ef7ff80a574dbcb7dca9e747b9b930cb",
+"assets/assets/lang/fa.json": "012fee0162bfd1987a8caef317e6e1e1",
+"assets/assets/lang/fa_faq.json": "960ee47ab674fd51ba46fee18b8fabc4",
 "assets/assets/operators/area_codes.json": "0af0eb5883021657038b3edb0c6ad472",
 "assets/assets/svg/about_us.svg": "de7e66265dcc8be9ce6eaf87cf7db542",
 "assets/assets/svg/account.svg": "777e0c5f3ecb89da301eb4c70a493ab7",
 "assets/assets/svg/account_balance.svg": "1169b096c2b776ac814a0ef15cf207d2",
 "assets/assets/svg/account_balance_disabled.svg": "5a20518f9638d1e57827574db66e89a2",
+"assets/assets/svg/bill_id.svg": "deb6284b1b76b91c51d13d8cd5189ba9",
 "assets/assets/svg/bill_payment.svg": "82b8725debe710790d1646c6ba539b9b",
 "assets/assets/svg/charge_sim.svg": "846f4ec091a132e6b2836cddda775fab",
 "assets/assets/svg/charge_sim_disabled.svg": "187f139fae76cb2e26ded56debd35e66",
@@ -49,6 +50,7 @@ const RESOURCES = {
 "assets/assets/svg/my_bills.svg": "0e2d64ec6a901668cc9b738b76937184",
 "assets/assets/svg/my_tickets.svg": "faee2a7fa0f1a8f4482e8e196d6a0fab",
 "assets/assets/svg/no_transactions.svg": "aa823272a9bc85241f7f5eb3ed76459d",
+"assets/assets/svg/payment_id.svg": "ae3278b130ae750adb62a45bfad4a216",
 "assets/assets/svg/phone.svg": "0157a932d5149404c990e87e07ed50d9",
 "assets/assets/svg/phone_bold.svg": "9b0deb300a962aac569d1e3461728a32",
 "assets/assets/svg/prefix_money.svg": "6a612e11e9d0d4afec5a597524e9a495",
@@ -67,7 +69,7 @@ const RESOURCES = {
 "assets/assets/svg/user.svg": "1366cf7b89dffc5cfbc4358d8cbb0c57",
 "assets/FontManifest.json": "c1737aa218692774139817a4ff296ca8",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "265f3d0e80679898549b68a3b7f427c9",
+"assets/NOTICES": "1c9a7707ad311eb2a9be8c6a3c3894f4",
 "assets/packages/fluttertoast/assets/toastify.css": "8beb4c67569fb90146861e66d94163d7",
 "assets/packages/fluttertoast/assets/toastify.js": "8f5ac78dd0b9b5c9959ea1ade77f68ae",
 "favicon.png": "b3875ab21a1eadf94c3d2c61353c2bbf",
@@ -75,14 +77,14 @@ const RESOURCES = {
 "icons/Icon-512.png": "b29765bf54ef0f98e818e77c01367fa6",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "0b8ed0d9d9662eaf52bb9ea6b3cdb854",
-"/": "0b8ed0d9d9662eaf52bb9ea6b3cdb854",
-"main.dart.js": "5acf5eb485e8b2fbc8f1f28dc5e3fcd6",
+"index.html": "0d2f796013548afd569fb95edf12774d",
+"/": "0d2f796013548afd569fb95edf12774d",
+"main.dart.js": "3ed534d4586c59eb65b75454b4646b8a",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7ce6f6c33529a9703e33e194e79b7691",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
 "styles.css": "2bba72f9198d8149b2ad4535ee334aa7",
-"version.json": "776cb0839f746806cc8f03f8d292b313"
+"version.json": "ba9f0902a6691b03ab2e7905693aad74"
 };
 
 // The application shell files that are downloaded before a service worker can
