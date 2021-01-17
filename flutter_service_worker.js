@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8d8d12395a59d33431569f8c14c2b531",
+  "app.js": "b3889ca21af7743d296673e33d8a1e49",
+"assets/AssetManifest.json": "8d8d12395a59d33431569f8c14c2b531",
 "assets/assets/fonts/IRANSansMobileFaNum-Bold.ttf": "4bac6b68236f494a59b54c44a1ed529f",
 "assets/assets/fonts/IRANSansMobileFaNum-Light.ttf": "3d18be052a4de0da6d0f2aaef74bbae5",
 "assets/assets/fonts/IRANSansMobileFaNum-Medium.ttf": "c37aafe885d7245042a5731e96a2acd2",
@@ -77,9 +78,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "b29765bf54ef0f98e818e77c01367fa6",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "adf9a0e3a24eb6478814a16009761630",
-"/": "adf9a0e3a24eb6478814a16009761630",
-"main.dart.js": "3ed534d4586c59eb65b75454b4646b8a",
+"index.html": "6232fc255e498cd08b4d62e91efd3493",
+"/": "6232fc255e498cd08b4d62e91efd3493",
+"main.dart.js": "2ce8a9a4039ad3f56772402dd73854ab",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7ce6f6c33529a9703e33e194e79b7691",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
