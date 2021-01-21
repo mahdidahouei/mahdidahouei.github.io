@@ -1,3 +1,3 @@
-function launch_url(url) {
-    window.location.replace(url);
+function isInStandaloneMode() {
+    return ('standalone' in window.navigator) && (window.navigator.standalone);
 }
