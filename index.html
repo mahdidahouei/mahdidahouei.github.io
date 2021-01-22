@@ -38,8 +38,10 @@
              https://developers.google.com/web/fundamentals/primers/service-workers -->
 
         <div>
-            <div>
-                <img src="img/splash_icon.png" class="center"/>
+            <div id="div-wait">
+                <div class="layer1">
+                    <img src="img/splash_icon.png" class="center"/>
+                </div>
             </div>
             <div>
                 <img src="img/splash_text.png" class="bottom"/>
@@ -47,13 +49,24 @@
         </div>
 
         <script>
+            if(!(('standalone' in window.navigator) && (window.navigator.standalone))) {
+                const p = document.createElement("p");
+                const node = document.createTextNode("وب اپلیکیشن در حال بارگزاری است، لطفا شکیبا باشید.");
+                p.className = "layer2";
+                p.appendChild(node);
+                const div = document.getElementById("div-wait");
+                // div.appendChild(p);
+            }
+        </script>
+
+        <script>
             if ('serviceWorker' in navigator) {
                 window.addEventListener('flutter-first-frame', function () {
-                    navigator.serviceWorker.register('flutter_service_worker.js?v=4279038291');
+                    navigator.serviceWorker.register('flutter_service_worker.js?v=1865251005');
                 });
             }
         </script>
         <script defer src="sql-wasm.js"></script>
-        <script src="main.dart.js?version=14" type="application/javascript"></script>
+        <script src="main.dart.js?version=15" type="application/javascript"></script>
     </body>
 </html>

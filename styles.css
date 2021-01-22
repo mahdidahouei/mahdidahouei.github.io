@@ -1,3 +1,9 @@
+@font-face {
+    font-family: IRANSans;
+    src: url(assets/assets/fonts/IRANSansMobileFaNum-Medium.ttf);
+    font-weight: normal;
+}
+
 .center {
     position: absolute;
     top: 50%;
@@ -15,4 +21,19 @@
     width: 109px;
     transform: translate(-50%, -40%);
     margin: 0 auto;
+}
+
+.container_row{
+    display: grid;
+}
+
+.layer1, .layer2{
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.layer1 span{
+}
+
+.layer2{
 }
