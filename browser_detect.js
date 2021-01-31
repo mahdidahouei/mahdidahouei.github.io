@@ -10,7 +10,15 @@ function isFirefox() {
 
 // Safari 3.0+ "[object HTMLElementConstructor]"
 function isSafari() {
-    return /constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || (typeof safari !== 'undefined' && window['safari'].pushNotification));
+    var ua = navigator.userAgent.toLowerCase();
+    if (ua.indexOf('safari') != -1) {
+      if (ua.indexOf('chrome') > -1) {
+        return false; // Chrome
+      } else {
+        return true; // Safari
+      }
+    }
+    return false;
 }
 
 // Internet Explorer 6-11
