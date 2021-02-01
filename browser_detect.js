@@ -1,7 +1,3 @@
-// Opera 8.0+
-function isOpera() {
-    return (!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
-}
 
 // Firefox 1.0+
 function isFirefox() {
@@ -21,27 +17,7 @@ function isSafari() {
     return false;
 }
 
-// Internet Explorer 6-11
-function isIE() {
-    return /*@cc_on!@*/false || !!document.documentMode;
-}
-
-// Edge 20+
-function isEdge() {
-    return !isIE && !!window.StyleMedia;
-}
-
 // Chrome 1 - 79
 function isChrome() {
-    return !!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime);
-}
-
-// Edge (based on chromium) detection
-function isEdgeChromium() {
-    return isChrome && (navigator.userAgent.indexOf("Edg") != -1);
-}
-
-// Blink engine detection
-function isBlink() {return (
-    isChrome || isOpera) && !!window.CSS;
+    return navigator.userAgent.indexOf("Chrome") != -1;
 }
