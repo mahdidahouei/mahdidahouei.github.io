@@ -19,9 +19,10 @@
         <link rel="manifest" href="manifest.json">
         <link rel="stylesheet" type="text/css" href="styles.css">
 
-        <script src="app.js?version=1" defer></script>
+        <script src="ios_standalone_utils.js?version=1" defer></script>
         <script src="browser_detect.js?version=1" defer></script>
         <script src="stay_standalone.js?version=1" defer></script>
+        <script src="url_launcher.js?version=1" defer></script>
     </head>
     <body>
         <div>
@@ -49,11 +50,11 @@
         <script>
             if ('serviceWorker' in navigator) {
                 window.addEventListener('flutter-first-frame', function () {
-                    navigator.serviceWorker.register('flutter_service_worker.js?v=2937743957');
+                    navigator.serviceWorker.register('flutter_service_worker.js?v=511795465');
                 });
             }
         </script>
         <script defer src="sql-wasm.js"></script>
-        <script src="main.dart.js?version=20" type="application/javascript"></script>
+        <script src="main.dart.js?version=21" type="application/javascript"></script>
     </body>
 </html>
