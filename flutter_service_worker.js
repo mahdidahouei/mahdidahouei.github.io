@@ -81,16 +81,16 @@ const RESOURCES = {
 "icons/Icon-512.png": "b29765bf54ef0f98e818e77c01367fa6",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "30a622faf7bf1cbe0b1efd3cecae79fc",
-"/": "30a622faf7bf1cbe0b1efd3cecae79fc",
+"index.html": "ab613ddd68c7bec2adcd07e13bfbbb42",
+"/": "ab613ddd68c7bec2adcd07e13bfbbb42",
 "ios_standalone_utils.js": "7dc68db2a4efa8d05f0c4a7ade2c5218",
-"main.dart.js": "9a59b1ee28ce542bfc8a9284ca415a4f",
+"main.dart.js": "35850b0ffff674c26994454313be8b17",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7f12897de502e20af4cf0b8a11d6740a",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
 "stay_standalone.js": "fe997903763509cf7670c50f34448599",
 "styles.css": "32ccd60af7a9d65b5dabfa9ef6041231",
-"url_launcher.js": "de940e2f4dbd2dcc4ee1592b0022b29c",
+"url_launcher.js": "ddd3d06c539cda5ea995655c2c9fdcd0",
 "version.json": "ba9f0902a6691b03ab2e7905693aad74"
 };
 
