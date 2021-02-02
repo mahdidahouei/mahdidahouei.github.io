@@ -82,9 +82,6 @@
   "exciting": "شور\u200Cانگیز",
   "invalid_selected_phone_number": "شماره تلفن انتخاب شده معتبر نیست",
   "charge": "شارژ",
-  "farvardin": "فروردین",
-  "ordibehesht": "اردیبهشت",
-  "khordad": "خرداد",
   "user_information": "اطلاعات کاربر",
   "edit_profile": "ویرایش پروفایل",
   "my_numbers": "شماره\u200Cهای من",
@@ -228,5 +225,6 @@
   "a_t_h_3_p2": " Add ",
   "a_t_h_3_p3": "بزنید.",
   "loading_payment_gateway": "در حال انتقال به صفحه بانک",
+  "follow_donak_instagram": "اینستاگرام دُنَک را دنبال کنید",
   "back": "برگشت"
 }
