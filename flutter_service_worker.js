@@ -81,17 +81,17 @@ const RESOURCES = {
 "icons/Icon-512.png": "b29765bf54ef0f98e818e77c01367fa6",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "669110283136cecfc12e9bece1c569f7",
-"/": "669110283136cecfc12e9bece1c569f7",
+"index.html": "2a7ac570336c1da02cc341ee3af1f16d",
+"/": "2a7ac570336c1da02cc341ee3af1f16d",
 "ios_standalone_utils.js": "7dc68db2a4efa8d05f0c4a7ade2c5218",
-"main.dart.js": "4c7db46a7a0bd188f13ed83cbaf91161",
+"main.dart.js": "2eaf2873f3d1eb4411ff35fbb0a8fd14",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7f12897de502e20af4cf0b8a11d6740a",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
 "stay_standalone.js": "fe997903763509cf7670c50f34448599",
 "styles.css": "32ccd60af7a9d65b5dabfa9ef6041231",
 "url_launcher.js": "ddd3d06c539cda5ea995655c2c9fdcd0",
-"version.json": "ba9f0902a6691b03ab2e7905693aad74"
+"version.json": "9d3acffcbf10f8b1ac68fb2da716152f"
 };
 
 // The application shell files that are downloaded before a service worker can
