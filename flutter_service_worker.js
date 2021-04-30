@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ce4bece28d38151c7635f6d2dfec4756",
+  "assets/AssetManifest.json": "c0470c828b9f1d82b5e2ee9fc1b5fb5d",
 "assets/assets/fonts/IRANSansMobileFaNum-Bold.ttf": "4bac6b68236f494a59b54c44a1ed529f",
 "assets/assets/fonts/IRANSansMobileFaNum-Light.ttf": "3d18be052a4de0da6d0f2aaef74bbae5",
 "assets/assets/fonts/IRANSansMobileFaNum-Medium.ttf": "c37aafe885d7245042a5731e96a2acd2",
@@ -89,8 +89,7 @@ const RESOURCES = {
 "assets/assets/svg/transactions.svg": "4d11c530c21fd2051d0757d376f22d92",
 "assets/assets/svg/tree.svg": "324f173d1a7af5ebf0b61621c4602cd9",
 "assets/assets/svg/trees_history.svg": "a5c26928926e5cb399db82098ad6a33d",
-"assets/assets/svg/tree_customer_name.svg": "3793a85dabba305b74b07ea7cc474f83",
-"assets/assets/svg/tree_customer_name_white.svg": "a19ed4db26050879b20a976a40c4270e",
+"assets/assets/svg/tree_customer_name.svg": "7dae3c18fbdd3c7035cc471d2652b1a3",
 "assets/assets/svg/tree_info.svg": "ffbbc48f442b3ebd4bccbbddb0a7b084",
 "assets/assets/svg/tree_location.svg": "7f89a7f60ef80c389206f37ba595b03a",
 "assets/assets/svg/tree_name.svg": "11e39723f6eac8a7b87f2fcbbc3205a4",
@@ -111,9 +110,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "b29765bf54ef0f98e818e77c01367fa6",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "06d0ae55a8bce1fae5bc1d07850a8c0a",
-"/": "06d0ae55a8bce1fae5bc1d07850a8c0a",
-"main.dart.js": "b99abe3787df80194556d18bbc1cb03f",
+"index.html": "34f3f29a59a85eaa70e90cb234c220dc",
+"/": "34f3f29a59a85eaa70e90cb234c220dc",
+"main.dart.js": "602686690693689fe2a1049ea3236c19",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7f12897de502e20af4cf0b8a11d6740a",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
