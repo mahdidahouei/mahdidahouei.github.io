@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c0470c828b9f1d82b5e2ee9fc1b5fb5d",
+  "assets/AssetManifest.json": "011e7159b778563ba73a8d719eb61043",
 "assets/assets/fonts/IRANSansMobileFaNum-Bold.ttf": "4bac6b68236f494a59b54c44a1ed529f",
 "assets/assets/fonts/IRANSansMobileFaNum-Light.ttf": "3d18be052a4de0da6d0f2aaef74bbae5",
 "assets/assets/fonts/IRANSansMobileFaNum-Medium.ttf": "c37aafe885d7245042a5731e96a2acd2",
@@ -22,7 +22,7 @@ const RESOURCES = {
 "assets/assets/images/tree.jpg": "8a9de22a458852f9e40abc2904cd8edc",
 "assets/assets/images/trees_not_loaded.png": "357b000fc5deb745bd7ada170aba2ad3",
 "assets/assets/images/tree_not_planted.png": "5a7714f85bf3fdbac13afb50b3c6655c",
-"assets/assets/lang/fa.json": "b2aac78ca4027268714beba04598c8cc",
+"assets/assets/lang/fa.json": "eb4438c666a43bb39048bc94d5e17775",
 "assets/assets/lang/fa_bill_faq.json": "8897946eec5f0e468be017eefbb05546",
 "assets/assets/lang/fa_faq.json": "ea31806ee3e8e42f296e3a721a4cbf3b",
 "assets/assets/lang/fa_rich_texts.json": "48413873e6a7103070414937491cd801",
@@ -62,6 +62,7 @@ const RESOURCES = {
 "assets/assets/svg/irancell.svg": "8589148ba6bd1064f80f1f557220b05f",
 "assets/assets/svg/irancell_selected.svg": "75e58f1ae5a0991073f42902735dc766",
 "assets/assets/svg/location.svg": "1b518574c97709d8b71eb7b5ae2ece1d",
+"assets/assets/svg/location_on_map.svg": "073c99799e81d50ecf99879691d2075e",
 "assets/assets/svg/logout.svg": "924406e753b48e9c453c57764f4674bf",
 "assets/assets/svg/mci.svg": "fbfbe8c77a27075bc32e27352d287ee0",
 "assets/assets/svg/mci_selected.svg": "8bf1e9b4107559c691d7d4ecfa8c1c50",
@@ -110,9 +111,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "b29765bf54ef0f98e818e77c01367fa6",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "1d78715121a42bc7f692081c4c2c538b",
-"/": "1d78715121a42bc7f692081c4c2c538b",
-"main.dart.js": "951a37e4d0ad3e0df68ac54f19d9509f",
+"index.html": "6abe5cd7279a06ff271911002e827a10",
+"/": "6abe5cd7279a06ff271911002e827a10",
+"main.dart.js": "65779e87e28bd6f8b914865e3014f4b1",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7f12897de502e20af4cf0b8a11d6740a",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
