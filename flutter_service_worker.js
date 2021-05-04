@@ -22,7 +22,7 @@ const RESOURCES = {
 "assets/assets/images/tree.jpg": "8a9de22a458852f9e40abc2904cd8edc",
 "assets/assets/images/trees_not_loaded.png": "357b000fc5deb745bd7ada170aba2ad3",
 "assets/assets/images/tree_not_planted.png": "5a7714f85bf3fdbac13afb50b3c6655c",
-"assets/assets/lang/fa.json": "eb4438c666a43bb39048bc94d5e17775",
+"assets/assets/lang/fa.json": "99ddec288503561876947bdb3986f465",
 "assets/assets/lang/fa_bill_faq.json": "8897946eec5f0e468be017eefbb05546",
 "assets/assets/lang/fa_faq.json": "ea31806ee3e8e42f296e3a721a4cbf3b",
 "assets/assets/lang/fa_rich_texts.json": "48413873e6a7103070414937491cd801",
@@ -109,18 +109,19 @@ const RESOURCES = {
 "favicon.png": "b3875ab21a1eadf94c3d2c61353c2bbf",
 "icons/Icon-192.png": "7cfffecdca7592392af5c221001e571f",
 "icons/Icon-512.png": "b29765bf54ef0f98e818e77c01367fa6",
+"img/loading_message.png": "dd3ee3e7866b93153542b41e81e8c39c",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "6abe5cd7279a06ff271911002e827a10",
-"/": "6abe5cd7279a06ff271911002e827a10",
-"main.dart.js": "65779e87e28bd6f8b914865e3014f4b1",
+"index.html": "2bb68e163f8fd63bf9ce21c5891cb0db",
+"/": "2bb68e163f8fd63bf9ce21c5891cb0db",
+"main.dart.js": "338334930e5db4862e9e461a8be08d8c",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7f12897de502e20af4cf0b8a11d6740a",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
 "stay_standalone.js": "fe997903763509cf7670c50f34448599",
-"styles.css": "32ccd60af7a9d65b5dabfa9ef6041231",
+"styles.css": "7c7c64e713fb0aa8b5d8bfcecfe52df1",
 "utils.js": "e0f2d784b644a310220d7b3ec086bffe",
-"version.json": "50155a144a52b6bbb834fd4d23b745ae"
+"version.json": "f4d2111640f57715b378243e6eb0ffc9"
 };
 
 // The application shell files that are downloaded before a service worker can

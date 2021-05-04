@@ -17,8 +17,6 @@
     position: fixed;
     left: 50%;
     bottom: 64px;
-    height: 19px;
-    width: 109px;
     transform: translate(-50%, -40%);
     margin: 0 auto;
 }
