@@ -101,8 +101,8 @@ const RESOURCES = {
 "assets/assets/svg/wait.svg": "0a3ce9a64a9164903f14aee7abaec044",
 "assets/assets/svg/water.svg": "7bc09b87dae16bf3f77b56283a4c42ab",
 "assets/FontManifest.json": "c1737aa218692774139817a4ff296ca8",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "5f1de515c0936dc3f7ffa46709c194aa",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/NOTICES": "451103da337ff2fb66d70577acf9624e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "browser_detect.js": "394455775af081a6e15d6f74b1a7a205",
@@ -112,9 +112,9 @@ const RESOURCES = {
 "img/loading_message.png": "6bb4d940a3de9160abe7f9aa5bfe1a4e",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "cd7ad5df6f53dca91f1772e8bfa09f35",
-"/": "cd7ad5df6f53dca91f1772e8bfa09f35",
-"main.dart.js": "2b062f637f6e84e50eb1c408330a6b90",
+"index.html": "d897e0a2bb6d9b1f5db3957256fa6949",
+"/": "d897e0a2bb6d9b1f5db3957256fa6949",
+"main.dart.js": "1431429f6163c72e6cb911388430848c",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7f12897de502e20af4cf0b8a11d6740a",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
@@ -139,7 +139,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
