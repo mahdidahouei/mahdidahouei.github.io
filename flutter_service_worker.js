@@ -112,15 +112,15 @@ const RESOURCES = {
 "img/loading_message.png": "6bb4d940a3de9160abe7f9aa5bfe1a4e",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "1b410900368051ca07461ba53ef0557d",
-"/": "1b410900368051ca07461ba53ef0557d",
-"main.dart.js": "338334930e5db4862e9e461a8be08d8c",
+"index.html": "cd7ad5df6f53dca91f1772e8bfa09f35",
+"/": "cd7ad5df6f53dca91f1772e8bfa09f35",
+"main.dart.js": "2b062f637f6e84e50eb1c408330a6b90",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7f12897de502e20af4cf0b8a11d6740a",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
 "stay_standalone.js": "fe997903763509cf7670c50f34448599",
-"styles.css": "856cfc87a1bc5b4edb3d460fe57bd908",
-"utils.js": "e0f2d784b644a310220d7b3ec086bffe",
+"styles.css": "f9a6e41dc3896d608b0fe6688f63ae4b",
+"utils.js": "f7e9d909a06b1fcf2ed121954b0b74d4",
 "version.json": "f4d2111640f57715b378243e6eb0ffc9"
 };
 
