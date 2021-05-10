@@ -22,10 +22,10 @@ const RESOURCES = {
 "assets/assets/images/tree.jpg": "8a9de22a458852f9e40abc2904cd8edc",
 "assets/assets/images/trees_not_loaded.png": "357b000fc5deb745bd7ada170aba2ad3",
 "assets/assets/images/tree_not_planted.png": "5a7714f85bf3fdbac13afb50b3c6655c",
-"assets/assets/lang/fa.json": "99ddec288503561876947bdb3986f465",
+"assets/assets/lang/fa.json": "69db5054f0a058a1c8668981b338eb78",
 "assets/assets/lang/fa_bill_faq.json": "8897946eec5f0e468be017eefbb05546",
 "assets/assets/lang/fa_faq.json": "ea31806ee3e8e42f296e3a721a4cbf3b",
-"assets/assets/lang/fa_rich_texts.json": "48413873e6a7103070414937491cd801",
+"assets/assets/lang/fa_rich_texts.json": "a6c6412ba53846a76a58e29e1f0b0a8d",
 "assets/assets/operators/area_codes.json": "0af0eb5883021657038b3edb0c6ad472",
 "assets/assets/svg/about_us.svg": "de7e66265dcc8be9ce6eaf87cf7db542",
 "assets/assets/svg/account.svg": "777e0c5f3ecb89da301eb4c70a493ab7",
@@ -102,7 +102,7 @@ const RESOURCES = {
 "assets/assets/svg/water.svg": "7bc09b87dae16bf3f77b56283a4c42ab",
 "assets/FontManifest.json": "c1737aa218692774139817a4ff296ca8",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "421330db018c25721d9b0ea8db733b8c",
+"assets/NOTICES": "9772775d0e9399857f7fecb867cfc8fd",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "browser_detect.js": "394455775af081a6e15d6f74b1a7a205",
@@ -112,16 +112,16 @@ const RESOURCES = {
 "img/loading_message.png": "6bb4d940a3de9160abe7f9aa5bfe1a4e",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "a188c55d2ea29d429895b88166115b77",
-"/": "a188c55d2ea29d429895b88166115b77",
-"main.dart.js": "b9b2c17218a75bffdb01dfea70be3b68",
+"index.html": "12a7b0e6739b29c8768051cedb39af29",
+"/": "12a7b0e6739b29c8768051cedb39af29",
+"main.dart.js": "3b26c7eb00835c883e485d0db90616ee",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7f12897de502e20af4cf0b8a11d6740a",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
 "stay_standalone.js": "fe997903763509cf7670c50f34448599",
 "styles.css": "f9a6e41dc3896d608b0fe6688f63ae4b",
 "utils.js": "f7e9d909a06b1fcf2ed121954b0b74d4",
-"version.json": "f4d2111640f57715b378243e6eb0ffc9"
+"version.json": "9d3acffcbf10f8b1ac68fb2da716152f"
 };
 
 // The application shell files that are downloaded before a service worker can
