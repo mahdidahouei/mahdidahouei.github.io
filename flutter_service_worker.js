@@ -102,7 +102,7 @@ const RESOURCES = {
 "assets/assets/svg/water.svg": "7bc09b87dae16bf3f77b56283a4c42ab",
 "assets/FontManifest.json": "c1737aa218692774139817a4ff296ca8",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "9772775d0e9399857f7fecb867cfc8fd",
+"assets/NOTICES": "9fd4162f6a208de27d5213ef565584aa",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "browser_detect.js": "394455775af081a6e15d6f74b1a7a205",
@@ -112,9 +112,9 @@ const RESOURCES = {
 "img/loading_message.png": "6bb4d940a3de9160abe7f9aa5bfe1a4e",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "12a7b0e6739b29c8768051cedb39af29",
-"/": "12a7b0e6739b29c8768051cedb39af29",
-"main.dart.js": "3b26c7eb00835c883e485d0db90616ee",
+"index.html": "31755861a04b5899e04362e8b5948bf6",
+"/": "31755861a04b5899e04362e8b5948bf6",
+"main.dart.js": "3b90458932a1e24565ece3f642ac8a6b",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7f12897de502e20af4cf0b8a11d6740a",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
@@ -265,7 +265,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey of Object.keys(RESOURCES)) {
+  for (var resourceKey in Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }
