@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "011e7159b778563ba73a8d719eb61043",
+  "assets/AssetManifest.json": "fdbe55814a25a8ac9f8793cbfa532c26",
 "assets/assets/fonts/IRANSansMobileFaNum-Bold.ttf": "4bac6b68236f494a59b54c44a1ed529f",
 "assets/assets/fonts/IRANSansMobileFaNum-Light.ttf": "3d18be052a4de0da6d0f2aaef74bbae5",
 "assets/assets/fonts/IRANSansMobileFaNum-Medium.ttf": "c37aafe885d7245042a5731e96a2acd2",
@@ -23,6 +23,7 @@ const RESOURCES = {
 "assets/assets/images/trees_not_loaded.png": "357b000fc5deb745bd7ada170aba2ad3",
 "assets/assets/images/tree_not_planted.png": "5a7714f85bf3fdbac13afb50b3c6655c",
 "assets/assets/lang/fa.json": "69db5054f0a058a1c8668981b338eb78",
+"assets/assets/lang/fa1.json": "69db5054f0a058a1c8668981b338eb78",
 "assets/assets/lang/fa_bill_faq.json": "8897946eec5f0e468be017eefbb05546",
 "assets/assets/lang/fa_faq.json": "ea31806ee3e8e42f296e3a721a4cbf3b",
 "assets/assets/lang/fa_rich_texts.json": "a6c6412ba53846a76a58e29e1f0b0a8d",
@@ -102,7 +103,7 @@ const RESOURCES = {
 "assets/assets/svg/water.svg": "7bc09b87dae16bf3f77b56283a4c42ab",
 "assets/FontManifest.json": "c1737aa218692774139817a4ff296ca8",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "9fd4162f6a208de27d5213ef565584aa",
+"assets/NOTICES": "47c4ab6a836096c573afa484a7ddf5e9",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "browser_detect.js": "394455775af081a6e15d6f74b1a7a205",
@@ -112,16 +113,16 @@ const RESOURCES = {
 "img/loading_message.png": "6bb4d940a3de9160abe7f9aa5bfe1a4e",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "31755861a04b5899e04362e8b5948bf6",
-"/": "31755861a04b5899e04362e8b5948bf6",
-"main.dart.js": "3b90458932a1e24565ece3f642ac8a6b",
+"index.html": "0cd689b3ea57669150db11c5231ebbaf",
+"/": "0cd689b3ea57669150db11c5231ebbaf",
+"main.dart.js": "acb028305b0576a56f390b62a32e4ab4",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7f12897de502e20af4cf0b8a11d6740a",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
 "stay_standalone.js": "fe997903763509cf7670c50f34448599",
 "styles.css": "f9a6e41dc3896d608b0fe6688f63ae4b",
 "utils.js": "f7e9d909a06b1fcf2ed121954b0b74d4",
-"version.json": "9d3acffcbf10f8b1ac68fb2da716152f"
+"version.json": "fc5a93f69376fc6a8202aa5fb6b1553e"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -265,7 +266,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }
