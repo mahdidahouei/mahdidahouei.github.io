@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "07b1c7583ce102436ff173b32a9f3520",
+  "assets/AssetManifest.json": "5823e2f8014d7b04c8b42ebaae139728",
 "assets/assets/fonts/IRANSansMobileFaNum-Bold.ttf": "4bac6b68236f494a59b54c44a1ed529f",
 "assets/assets/fonts/IRANSansMobileFaNum-Light.ttf": "3d18be052a4de0da6d0f2aaef74bbae5",
 "assets/assets/fonts/IRANSansMobileFaNum-Medium.ttf": "c37aafe885d7245042a5731e96a2acd2",
@@ -24,9 +24,11 @@ const RESOURCES = {
 "assets/assets/images/trees_not_loaded.png": "357b000fc5deb745bd7ada170aba2ad3",
 "assets/assets/images/tree_not_planted.png": "5a7714f85bf3fdbac13afb50b3c6655c",
 "assets/assets/lang/fa.json": "343807cbd4d36a5a135fe652012c1178",
+"assets/assets/lang/fa2.json": "343807cbd4d36a5a135fe652012c1178",
 "assets/assets/lang/fa_bill_faq.json": "a7123491d7592d556d1238a8c37b3657",
 "assets/assets/lang/fa_faq.json": "ea31806ee3e8e42f296e3a721a4cbf3b",
 "assets/assets/lang/fa_rich_texts.json": "94f6623cfea3a7c9a7a52c54e2f5dcb2",
+"assets/assets/lang/fa_rich_texts2.json": "94f6623cfea3a7c9a7a52c54e2f5dcb2",
 "assets/assets/operators/area_codes.json": "0af0eb5883021657038b3edb0c6ad472",
 "assets/assets/svg/about_us.svg": "de7e66265dcc8be9ce6eaf87cf7db542",
 "assets/assets/svg/account.svg": "777e0c5f3ecb89da301eb4c70a493ab7",
@@ -124,9 +126,9 @@ const RESOURCES = {
 "img/loading_message.png": "6bb4d940a3de9160abe7f9aa5bfe1a4e",
 "img/splash_icon.png": "14d750c3e31f0800e0fb49aa19c7a87d",
 "img/splash_text.png": "dad9ad74cdb9a1f76cfd5aecb5776820",
-"index.html": "8375a180f922c2f4c3a35e7873b978de",
-"/": "8375a180f922c2f4c3a35e7873b978de",
-"main.dart.js": "bce7ce653d74d5baed60c8673910b5e8",
+"index.html": "6a6f89d1c3f13b80477d3b68d5d23146",
+"/": "6a6f89d1c3f13b80477d3b68d5d23146",
+"main.dart.js": "de470a8be2c8594fde77d57aff07dd4a",
 "manifest.json": "d6f5cdc08dd39892f66877d7bf1d3f65",
 "sql-wasm.js": "7f12897de502e20af4cf0b8a11d6740a",
 "sql-wasm.wasm": "9acb7a2acdb22234cf19be0aa2f332d0",
