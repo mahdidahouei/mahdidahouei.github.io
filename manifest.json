@@ -1,6 +1,6 @@
 {
-    "name": "chat_design",
-    "short_name": "chat_design",
+    "name": "dine_test",
+    "short_name": "dine_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
