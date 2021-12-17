@@ -38534,7 +38534,7 @@ F.a0g.prototype={
 $0(){},
 $S:0}
 F.a0i.prototype={
-$2(a,b){return new Z.oR(0.3,0.3,80,this.a.go,null)},
+$2(a,b){return new Z.oR(0.3,0.3,100,this.a.go,null)},
 $S:132}
 B.CE.prototype={
 aC(a,b){var s,r,q=H.aD(),p=q?H.aZ():new H.aU(new H.aW())
