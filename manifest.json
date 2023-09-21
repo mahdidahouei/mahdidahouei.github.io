@@ -1,11 +1,11 @@
 {
-    "name": "Mahdi Dahouei",
+    "name": "Mahdi",
     "short_name": "Mahdi",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#6ABF64",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Mobile application developer",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
