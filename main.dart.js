@@ -73875,7 +73875,7 @@ $1(a){var s,r,q,p=this,o=null,n=p.a,m=n.ax.a,l=m===B.a5?"assets/images/flutter_c
 m=p.b
 s=m?48:16
 r=t.E
-n=A.a([A.ei(o,Math.max(p.c*0.78-p.d,20),o),B.Ib,B.hX,B.V8,B.hX,A.lp("Mobile Application developer with over 4 years of experience developing commercial flutter applications working with startup teams.",o,n.p3.z.kb(B.k),B.cA),B.hX],r)
+n=A.a([A.ei(o,Math.max(p.c*0.78-p.d,20),o),B.Ib,B.hX,B.V8,B.hX,A.lp("Mobile Application developer with over 4 years of experience developing commercial Flutter applications working with startup teams.",o,n.p3.z.kb(B.k),B.cA),B.hX],r)
 q=p.f
 if(m)n.push(A.wJ(q,B.bw))
 else n.push(A.ma(q,B.bJ,B.c0,B.bw))
