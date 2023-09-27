@@ -73863,7 +73863,7 @@ a.gac()
 p=r.a>500
 return new A.et(new A.ay(0,1/0,q,1/0),new A.es(new A.a3O(s,p,q,A.a([A.anh(new A.a3P(),!1,p,"View full resume")],t.H6)),null),null)}}
 A.a3P.prototype={
-$0(){A.fY(A.du("https://github.com/mahdidahouei/mahdidahouei/files/12565766/cv-mahdi.dahouei.pdf",0,null),"_blank")},
+$0(){A.fY(A.du("https://github.com/mahdidahouei/mahdidahouei/files/12735093/cv-mahdi.dahouei.pdf",0,null),"_blank")},
 $S:0}
 A.a3O.prototype={
 $1(a){var s,r,q,p,o=this,n=null,m=o.a.ax.a,l=m===B.a5?"assets/images/flutter_code_blur.jpg":"assets/images/flutter_code.jpg",k=A.av(B.c.b8(255*(m===B.ae?0.85:0.3)),0,0,0)
@@ -73888,24 +73888,24 @@ $S:0}
 A.Jm.prototype={
 O(a){var s=null
 A.jq(a,B.di,t.wr).toString
-return A.aqG(B.a5C,A.a([A.xd(A.pc("assets/images/dart.png",s,s,s),"Dart",new A.a52()),A.xd(B.HA,"Flutter",new A.a53()),A.xd(A.pc("assets/images/nodejs.png",s,s,s),"Node.js",new A.a54()),A.xd(A.pc("assets/images/swift.png",s,s,s),"Swift",new A.a55()),A.xd(A.pc("assets/images/java.png",s,s,s),"Java",new A.a56()),A.xd(A.pc("assets/images/figma.png",s,s,s),"Figma",new A.a57())],t.E),8,8)}}
+return A.aqG(B.a5C,A.a([A.xd(B.HA,"Flutter",new A.a52()),A.xd(A.pc("assets/images/nodejs.png",s,s,s),"Node.js",new A.a53()),A.xd(A.pc("assets/images/figma.png",s,s,s),"Figma",new A.a54()),A.xd(A.pc("assets/images/dart.png",s,s,s),"Dart",new A.a55()),A.xd(A.pc("assets/images/swift.png",s,s,s),"Swift",new A.a56()),A.xd(A.pc("assets/images/java.png",s,s,s),"Java",new A.a57())],t.E),8,8)}}
 A.a52.prototype={
-$0(){A.fY(A.du("https://dart.dev/",0,null),"_blank")},
-$S:0}
-A.a53.prototype={
 $0(){A.fY(A.du("https://flutter.dev/",0,null),"_blank")},
 $S:0}
-A.a54.prototype={
+A.a53.prototype={
 $0(){A.fY(A.du("https://nodejs.org/",0,null),"_blank")},
 $S:0}
+A.a54.prototype={
+$0(){A.fY(A.du("https://figma.com",0,null),"_blank")},
+$S:0}
 A.a55.prototype={
-$0(){A.fY(A.du("https://developer.apple.com/swift/",0,null),"_blank")},
+$0(){A.fY(A.du("https://dart.dev/",0,null),"_blank")},
 $S:0}
 A.a56.prototype={
-$0(){A.fY(A.du("https://developer.android.com/codelabs/build-your-first-android-app#0",0,null),"_blank")},
+$0(){A.fY(A.du("https://developer.apple.com/swift/",0,null),"_blank")},
 $S:0}
 A.a57.prototype={
-$0(){A.fY(A.du("https://figma.com",0,null),"_blank")},
+$0(){A.fY(A.du("https://developer.android.com/codelabs/build-your-first-android-app#0",0,null),"_blank")},
 $S:0}
 A.LQ.prototype={
 O(a){var s,r,q,p=null
