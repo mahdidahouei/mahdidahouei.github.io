@@ -33,7 +33,7 @@ https://donak.ir
 ### Get in touch
 
 - <img width="14px" src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/8c19415b-0a66-402a-876d-8365c2f56df7"> <a href="https://stackoverflow.com/users/11989412/mahdi-dahouei">stackoverflow.com/users/mahdi-dahouei</a>
-- <img width="15px" src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/8a9e0236-db8f-4b7b-a543-5659123b21a1"> <a href="https://www.linkedin.com/in/mahdi-dahouei-6a5002121/">linkedin.com/in/mahdi-dahouei</a>
+- <img width="15px" src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/8a9e0236-db8f-4b7b-a543-5659123b21a1"> <a href="https://www.linkedin.com/in/mahdidahouei/">linkedin.com/in/mahdidahouei</a>
 - <a href="https://www.instagram.com/mahdidahouei/"><img width="14px" src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/a908715c-6a26-4138-ac5d-5d1e88edfea5"></a> <a href="https://www.instagram.com/mahdidahouei/">
   instagram.com/mahdidahouei</a>
 
