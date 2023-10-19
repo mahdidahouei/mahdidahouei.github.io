@@ -1,11 +1,11 @@
 {
-    "name": "dine_mobile",
-    "short_name": "dine_mobile",
+    "name": "Afterhours Bookings",
+    "short_name": "Afterhours",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Restaurant Reservation",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
