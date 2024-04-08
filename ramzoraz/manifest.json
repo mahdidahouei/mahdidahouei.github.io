@@ -1,0 +1,35 @@
+{
+    "name": "Ramzoraz cafe menu",
+    "short_name": "cafe menu",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#E91E63",
+    "theme_color": "#E91E63",
+    "description": "منوی کافه رمز و راز",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
